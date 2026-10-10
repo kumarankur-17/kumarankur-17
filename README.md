@@ -1,7 +1,9 @@
 # Hey, I'm Ankur! 👋
 
 🎓 Second-year B.Tech student in **Aerospace Engineering at IIT Bombay**
+
 👨‍💻 Active member as a Convener of [WnCC](https://wncc-iitb.org/) — Web and Coding Club, IIT Bombay
+
 💻 Interested in **Software Development, AI/ML, and Problem Solving**
 
 I enjoy understanding how things work from first principles, writing efficient code, and building projects that challenge me to learn something new.
