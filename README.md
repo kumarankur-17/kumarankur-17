@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hey, I'm Ankur! 👋
 
-<!--
-**kumarankur-17/kumarankur-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second-year B.Tech student in **Aerospace Engineering at IIT Bombay**
+💻 Interested in **Software Development, AI/ML, and Problem Solving**
 
-Here are some ideas to get you started:
+I enjoy understanding how things work from first principles, writing efficient code, and building projects that challenge me to learn something new.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on strengthening my fundamentals in data structures and algorithms, exploring software development, and building projects that turn concepts into working systems.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+* C++
+* Python
+* JavaScript / TypeScript (Currently Learning)
+
+**Tools & Technologies**
+
+* Git & GitHub
+* VS Code
+* Linux / WSL
+* NumPy & Pandas
+
+**Currently Exploring**
+
+* Data Structures & Algorithms
+* AI / Machine Learning
+* Full-Stack Development
+
+---
+
+### 🚀 Projects
+
+♟️ **NeuralGambit** — Chess Engine
+Developing a chess engine in C++, exploring move generation, position evaluation, and search algorithms to improve playing strength.
+
+💡 **More projects coming soon!**
+
+---
+
+### 📈 What I'm Working On
+
+* Solving algorithmic problems and improving problem-solving skills.
+* Writing more efficient and maintainable C++ code.
+* Exploring Python for data analysis and machine learning.
+* Building projects to deepen my understanding of software engineering.
+
+---
+
+### 🎯 Beyond the Code
+
+I'm curious about the intersection of **mathematics, engineering, and computing**. I enjoy tackling challenging problems, learning new technologies, and experimenting with ideas through code.
+
+---
+
+### 🤝 Let's Connect
+
+I'm always open to learning from other developers, discussing interesting technical ideas, and collaborating on projects.
+
+📫 Feel free to explore my repositories and follow my journey!
+
+---
+
+⭐ *Always learning. Always building.*
